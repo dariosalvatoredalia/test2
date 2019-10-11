@@ -1,2 +1,0 @@
-print("foooo")
-print("bar")

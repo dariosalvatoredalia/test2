@@ -1,0 +1,24 @@
+{
+  "name": "Progetto",
+  "version": "0.1.0",
+  "description": "Descrizione",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariosalvatoredalia/test2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariosalvatoredalia/test2/issues"
+  },
+  "homepage": "https://github.com/dariosalvatoredalia/test2#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
